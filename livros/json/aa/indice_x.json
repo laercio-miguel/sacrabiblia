@@ -1,0 +1,21 @@
+{
+  "xales": [
+    {
+      "book": "isaias",
+      "chapter": 3,
+      "verse": 22
+    }
+  ],
+  "xofrango": [
+    {
+      "book": "levitico",
+      "chapter": 11,
+      "verse": 13
+    },
+    {
+      "book": "deuteronomio",
+      "chapter": 14,
+      "verse": 12
+    }
+  ]
+}
